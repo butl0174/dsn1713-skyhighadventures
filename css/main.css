@@ -6,6 +6,10 @@
 
 }
 
+.overflow-hidden{
+ background-color: black;
+}
+
 /* .navbar .navbar-nav {
     display: inline-block;
     float: none;
