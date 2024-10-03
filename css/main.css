@@ -6,8 +6,12 @@
 
 }
 
-.overflow-hidden{
- background-color: black;
+.btn{
+    margin-bottom: 10px;
+}
+
+.fw-bold{
+    color: yellow ;
 }
 
 /* .navbar .navbar-nav {
